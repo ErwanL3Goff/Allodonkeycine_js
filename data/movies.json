@@ -10,11 +10,56 @@
     },
     {
       "id": 2,
-      "title": "Dragon Ball Z Attaque du Dragon.",
-      "description": "Goku est plus fort que Cédric Doumbé",
-      "release_date": "2020",
-      "poster": "Dragon-Ball-Z-movie-attaque_du_dragon.jpg",
+      "title": "Serial Experiments Lain",
+      "description": "Les ordinateurs sont l'avenirs de notre société",
+      "release_date": "1750",
+      "poster": "SerialExperimentsLain.jpg",
+      "genre": ["PHP", "TDAH"],
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "Platoon",
+      "description": "Splatoon était un jeu sur lequel j'étais très mauvais.",
+      "release_date": "2048",
+      "poster": "platoon.jpg",
+      "genre": ["Scolarité", "Problèmes fammiliaux"],
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "title": "Super Mario Bros The Movie.",
+      "description": "Aucune ref à Hotel Mario sur Philips CDI.",
+      "release_date": "33 après JC",
+      "poster": "super-mario-bros-movie.jpg",
+      "genre": ["Religion", "Philosophie"],
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Transformers Rise of The Beast",
+      "description": "Mieux que Transformer 1 à 5",
+      "release_date": "1914",
+      "poster": "Transformers_rise_of_the_beast.jpg",
+      "genre": ["Humanisme", "Ecologie"],
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "title": "Jujutsu Kaisen Zero",
+      "description": "Yuta = Shinji Hikari + Gaara",
+      "release_date": "-4 milliard d'années",
+      "poster": "Jujutsu_kaisen_zero.jpg",
       "genre": ["Romance", "Géopolitique"],
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "title": "Ip Man",
+      "description": "Un prodige du Wing Chun plus fort qu'Isaac Newtoon.",
+      "release_date": "1893",
+      "poster": "ip_man.jpg",
+      "genre": ["Immobilier", "Leçon de vie"],
       "rating": 4.7
     }
   ]
