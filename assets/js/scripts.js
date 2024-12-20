@@ -68,3 +68,18 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch(error => console.error('Erreur de chargement des détails du film:', error));
     }
 });
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  // Affiche la loader pendant 3 secondes
+  setTimeout(() => {
+    // Masquer l'écran de chargement
+    const loadingScreen = document.getElementById("loading-screen");
+    loadingScreen.style.display = "none";
+
+    // Afficher le contenu principal
+    const mainContent = document.getElementById("main-content");
+    mainContent.style.display = "block";
+  }, 1500);
+});
